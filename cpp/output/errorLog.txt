@@ -1,6 +1,0 @@
-Error at line 7: Type Mismatch
-
-Error at line 10: Type Mismatch
-
-Error at line 13: Type Mismatch
-

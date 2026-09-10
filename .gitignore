@@ -1,0 +1,27 @@
+# ---- ANTLR-generated sources (recreated by run-script.sh) ----
+src/C2105133Lexer.cpp
+src/C2105133Lexer.h
+src/C2105133Parser.cpp
+src/C2105133Parser.h
+src/C2105133ParserListener.cpp
+src/C2105133ParserListener.h
+src/C2105133ParserBaseListener.cpp
+src/C2105133ParserBaseListener.h
+*.interp
+*.tokens
+
+# ---- IDE / tooling caches ----
+.antlr/
+.vscode/
+.idea/
+
+# ---- Build artifacts ----
+*.o
+*.out
+*.exe
+
+# ---- Compiler output (regenerated on every run) ----
+src/output/
+
+# ---- Reference material, not part of the project ----
+*.pdf
